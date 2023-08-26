@@ -3,7 +3,7 @@ package myjavaproject;
 public class PalindromeExample {
 	public static void main(String args[]){  
 		  int r,sum=0,temp;    
-		  int n=404;
+		  int n=4654;
 		  //It is the number variable to be checked for palindrome  
 		  
 		  temp=n;    
